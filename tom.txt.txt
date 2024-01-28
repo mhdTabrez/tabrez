@@ -1,0 +1,4 @@
+fun
+dog
+cat
+mice
